@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet"');
+body {
+	background-image: url('https://i.imgur.com/ghl4XZx.png');
+	font-family: 'Noto Sans KR', sans-serif;
+	border-width:20px;
+	border-style:solid;
+	border-color:rgba(255,255,255,0);
+	color: white;
+	text-decoration: none;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
